@@ -1,0 +1,11 @@
+Package: drauger-locale-(LANG)
+Version: 0.0.1
+Maintainer: Thomas Castleman <contact@draugeros.org> (You may, optionally, replace this with your name and email if you wish)
+Section: localization
+Homepage: https://github.com/drauger-os-development/drauger-locales
+Architecture: all
+Priority: optional
+Description: (LANG) Locale Files for Drauger OS Apps
+ Use Drauger OS Apps in your native langauge
+ .
+ This package is for the (LANG) Locale.
