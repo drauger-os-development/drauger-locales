@@ -1,4 +1,7 @@
 # drauger-locales
+
+[![Build Status](https://jenkins.draugeros.org/job/drauger-locales/badge/icon)](https://jenkins.draugeros.org/job/drauger-locales/)
+
 Locales for Drauger OS
 
 If you wish to add a translation to Drauger OS, please make a branch, or fork this repository, make a folder with the name of the language you will be working on, if it does not already exist.
