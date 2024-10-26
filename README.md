@@ -1,6 +1,6 @@
 # drauger-locales
 
-<a href='https://jenkins.draugeros.org/job/drauger-locales/'><img src=' http://jenkins.draugeros.org/buildStatus/icon?job=drauger-locales'></a>
+[![Build Status](http://jenkins.draugeros.org/buildStatus/icon?job=drauger-locales)](https://jenkins.draugeros.org/job/drauger-locales/)
 
 Locales for Drauger OS
 
