@@ -1,0 +1,11 @@
+Package: drauger-locale-zh-cn
+Version: 0.0.1
+Maintainer: Amy Chen <seu-chensiyuan@outlook.com>
+Section: localization
+Homepage: https://github.com/drauger-os-development/drauger-locales
+Architecture: all
+Priority: optional
+Description: Simplified Chinese Locale Files for Drauger OS Apps
+ Use Drauger OS Apps in your native langauge
+ .
+ This package is for the Chinese implified Locale.

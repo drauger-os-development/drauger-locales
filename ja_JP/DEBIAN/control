@@ -1,0 +1,11 @@
+Package: drauger-locale-ja-jp
+Version: 0.0.1
+Maintainer: Thomas Castleman <contact@draugeros.org>
+Section: localization
+Homepage: https://github.com/drauger-os-development/drauger-locales
+Architecture: all
+Priority: optional
+Description: Japanese Locale Files for Drauger OS Apps
+ Use Drauger OS Apps in your native langauge
+ .
+ This package is for the Japanese Locale.

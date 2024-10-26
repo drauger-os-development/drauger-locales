@@ -26,5 +26,3 @@ Example:
  echo $LANG | sed 's/.UTF-8//g'
  ```
  or, go to [this website](http://www.localeplanet.com/support/browser.html), scroll to the bottom, and use the line after `Locale:`, NOT the line after `Locale Code:`
- 
- 
